@@ -1,0 +1,4 @@
+__pycache__
+results/*
+data/*
+train_output/*
